@@ -1,0 +1,5 @@
+/target
+/book
+Cargo.lock
+.env
+*.log

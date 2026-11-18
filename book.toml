@@ -1,0 +1,8 @@
+[book]
+title = "Tenancy for Rust"
+authors = ["tenancy-rs contributors"]
+language = "id"
+src = "docs/src"
+
+[output.html]
+default-theme = "rust"
