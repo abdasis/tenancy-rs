@@ -20,7 +20,7 @@ Default kosong: core bebas axum dan sqlx.
 
 ```toml
 [dependencies]
-tenancy = { git = "https://github.com/example/tenancy-rs" }
+tenancy = "0.1"
 ```
 
 ## Contoh

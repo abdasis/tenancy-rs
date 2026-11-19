@@ -4,7 +4,11 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Multi-tenant primitives for Rust services: resolution, lifecycle, bootstrappers, single-DB scoping and multi-DB support"
-publish = false
+repository = "https://github.com/abdasis/tenancy-rs"
+documentation = "https://docs.rs/tenancy"
+readme = "README.md"
+keywords = ["multi-tenancy", "tenant", "sqlx", "axum", "saas"]
+categories = ["database", "web-programming"]
 
 [[example]]
 name = "axum_single_db"
